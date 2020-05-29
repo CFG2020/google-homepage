@@ -13,10 +13,35 @@
     </div>
     <div class="main">
         <div class="logo-img">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2015%2F9%2F1%2F9239769%2Fnew-google-logo-announced&psig=AOvVaw0yjWR6h5hB6w9vKbWPUBe3&ust=1590534089670000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjO-K6P0OkCFQAAAAAdAAAAABAJ">
-
+            <img src="/home/christopher/google-homepage/img/google-logo.png" alt="google logo" />
         </div>
-
+        <div class="search-box">
+            <input type="text" name="txtname" placeholder="Search or Enter URL">
+        </div>
+        <div class="btn">
+            <button>Google Search</button>
+            <button>I'm Feeling Lucky</button>
+        </div>
+        <div class="langs">
+            <label>Google offered in</label>
+            <a href="">Hindi</a>
+            <a href="">English</a>
+            <a href="">Marathi</a>
+            <a href="">Gujrati</a>
+            <a href="">Begali</a>
+        </div>
+    </div>
+    <div class="footer"> 
+        <div class="country"
+            <span>United States</span>
+        </div>
+        <div class="footer-links">
+            <div class="footer-left">
+                <a href="#">Advertising</a>
+                <a href="#">Business</a>
+                <a href="#">About</a>
+            </div>
+        </div>
     </div>
 </body>
 </html>
