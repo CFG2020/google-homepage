@@ -41,6 +41,12 @@
                 <a href="#">Business</a>
                 <a href="#">About</a>
             </div>
+
+            <div class="footer-right">
+                <a href="#">Privacy</a>
+                <a href="#">Terms</a>
+                <a href="#">Settings</a>
+            </div>
         </div>
     </div>
 </body>
