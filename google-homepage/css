@@ -30,13 +30,18 @@ body
 .logo-img img
 {
     width: 500px;
-    height: 200px;
+    height: 250px;
     margin-top: 10%;
-    margin-left: 100px;
+    display: block;
+    margin-left: 30%;
+    margin-right: auto;
 }
 
 .search-box input 
 {
+    display: Block;
+    margin-left: auto;
+    margin-right: auto;
     height: 40px;
     width: 444px;
 }
